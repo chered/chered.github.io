@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to my Blog!"
 date:   2021-05-18 00:00:00 +0800
 categories: jekyll update
-image: /assets/images/photo.jpg
+image: /assets/images/passion.jpg
 ---
 ![Sherwin]({{ page.image | relative_url }})
 
