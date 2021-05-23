@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Static Site Generator"
+title:  "Static Site Generator for Simple Blog Website"
 date:   2021-05-23 00:00:00 +0800
 categories: CMS
 image: /assets/images/jekyll-og.png
@@ -9,9 +9,9 @@ image: /assets/images/jekyll-og.png
 
 **KISS “keep it simple, stupid”**
 
-Who would have thought that you can have a CMS that will require no database. Yes you heard it right, a CMS without database. 
+Who would have thought that you can have a blog that will require no database. Yes you heard it right, a blog without database. 
 
-Popular CMS like wordpress, drupal and joomla have been used widely through the years and it continues to do so. But over the years, loading speed test websites such as google pagespeed require these CMSs a need to have a lot of optimization to get a better speed score. And so static site generators emerge as an alternative solution for a CMS with quicker and leaner websites. 
+Popular blog CMS like wordpress, drupal and joomla have been used widely through the years and it continues to do so. But over the years, loading speed test websites such as google pagespeed require these CMSs a need to have a lot of optimization to get a better speed score. And so static site generators emerge as an alternative solution for a these blog tools with quicker and leaner websites. 
 
 Some of the most popular static site generators are [jekyll](https://jekyllrb.com/) and [hugo](https://gohugo.io/). This blog was built using jekyll.
 ## Advantages of Static Site Generators
